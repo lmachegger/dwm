@@ -1,7 +1,7 @@
 # My dwm (dynamic window manager) build
 
 ![Screenshot of my desktop](https://github.com/lmachegger/dwm/blob/master/screenshot.png) 
-Dwm is an extremely fast, small, and dynamic window manager for X. Dwm is created by [suckless.org](https://suckless.org).  This is my personal build of dwm.  I used a number of patches in this build:
+Dwm is an extremely fast, small, and dynamic window manager for X. Dwm is created by [suckless.org](https://suckless.org).  This is my personal build of dwm. I used a number of patches in this build:
 + alpha (for transparency)
 + attachaside (new clients appear in the stack rather than as the master)
 + cyclelayouts (cycles through the available layouts)
